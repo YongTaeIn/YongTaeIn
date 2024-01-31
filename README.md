@@ -27,9 +27,11 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <br>
 
+![TaeIn's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongTaeIn&show_icons=true&theme=radical)
+
 </div>
 
-![TaeIn's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongTaeIn&show_icons=true&theme=radical)
+
 
 
 
