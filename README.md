@@ -28,6 +28,8 @@
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/ROS-%2322314E?style=for-the-badge&logo=ros&logoColor=white">
+<img src="https://img.shields.io/badge/MQTT-%23660066?style=for-the-badge&logo=mqtt&logoColor=white">
+
 
 
 <br>
