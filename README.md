@@ -57,7 +57,7 @@ I strive to bridge the gap between AI technologies and real-world applications, 
 
 ### 🎓 Education
 - 🎓 **1 March 2023 ~ 14 February 2025** : Master's Degree in Sejong University | **Autonomous Intelligent System Lab** (Graduated)
-- 📚 **1 March 2022 ~ 17 February 2023** : Undergraduate Research Intern | **Sejong University Autonomous Intelligent System Lab**
+- 📚 **1 March 2022 ~ 17 February 2023** : Undergraduate Research Intern | **Autonomous Intelligent System Lab**
 - 🎓 **1 March 2021 ~ 17 February 2023** : Bachelor's Degree in Sejong University (Graduated)
 - 📖 **1 March 2017 ~ 18 January 2021** : Hankyong National University (Transferred)
 
