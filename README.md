@@ -26,15 +26,22 @@ As an **AI Researcher & Developer**, I specialize in the convergence of **Deep L
 - Applying **robotics** to create AI-driven solutions that make the world more convenient
 
 🔬 **Research Experience:**
+- **AI-based Industrial Safety Service**  
+  Affiliation: Doublt T Co., Ltd.  
+  Research Period: June 2025 ~ Present
+  
 - **User-Friendly Interface Technology for Safe Operation of Unmanned Vehicles**  
+  Affiliation: Autonomous Intelligent System Lab, Sejong University  
   Supported by: Ministry of Science and ICT (MSIT), South Korea  
   Research Period: August 2023 ~ February 2025
   
 - **Primary Lithium Battery Life Prediction and Remaining Capacity Measurement for Industrial IoT Devices**  
+  Affiliation: Autonomous Intelligent System Lab, Sejong University  
   Supported by: Ministry of Trade, Industry and Energy (MOTIE), South Korea  
   Research Period: July 2022 ~ December 2024
   
 - **Connected Intelligent Sensor Platform Technology for Network-Based Sensors**  
+  Affiliation: Autonomous Intelligent System Lab, Sejong University  
   Supported by: Ministry of Trade, Industry and Energy (MOTIE), South Korea  
   Research Period: March 2022 ~ August 2022
 
@@ -50,7 +57,7 @@ I strive to bridge the gap between AI technologies and real-world applications, 
 
 ### 🎓 Education
 - 🎓 **1 March 2023 ~ 14 February 2025** : Master's Degree in Sejong University | **Autonomous Intelligent System Lab** (Graduated)
-- 📚 **1 March 2022 ~ 17 February 2023** : Undergraduate Research Intern | **Sejong University AISL**
+- 📚 **1 March 2022 ~ 17 February 2023** : Undergraduate Research Intern | **Sejong University Autonomous Intelligent System Lab**
 - 🎓 **1 March 2021 ~ 17 February 2023** : Bachelor's Degree in Sejong University (Graduated)
 - 📖 **1 March 2017 ~ 18 January 2021** : Hankyong National University (Transferred)
 
@@ -234,7 +241,5 @@ I strive to bridge the gap between AI technologies and real-world applications, 
 <div align="center">
 
 ### 💡 "Keep Learning, Keep Growing"
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYongTaeIn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
