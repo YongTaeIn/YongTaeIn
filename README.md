@@ -15,7 +15,7 @@
 <h3>🌟 My Vision</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:8B5CF6&height=100&section=header&text=Creating%20a%20more%20convenient%20world%20for%20everyone&fontSize=20&fontColor=8470FF&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:8B5CF6&height=100&section=header&text=Creating%20a%20bettere%%20world%20for%20everyone&fontSize=20&fontColor=8470FF&animation=twinkling" />
 </p>
 
 </div>
