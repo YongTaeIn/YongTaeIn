@@ -4,10 +4,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=TaeIn+Yong;AI+Researcher+%26+Developer" alt="Typing SVG" />
 </h1>
 
-### 🤖 AI · IoT · Robotics
+<h3>🔬 Main Research Areas</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Creating+a+more+convenient+world+for+everyone" alt="Mission Statement" />
+  <img src="https://img.shields.io/badge/🤖_AI-FF69B4?style=for-the-badge&logoColor=white" alt="AI"/>
+  <img src="https://img.shields.io/badge/💡_IoT-8B5CF6?style=for-the-badge&logoColor=white" alt="IoT"/>
+  <img src="https://img.shields.io/badge/🦾_Robotics-6366F1?style=for-the-badge&logoColor=white" alt="Robotics"/>
+</p>
+
+<h3>🌟 My Vision</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:8B5CF6&height=100&section=header&text=Creating%20a%20more%20convenient%20world%20for%20everyone&fontSize=20&fontColor=8470FF&animation=twinkling" />
 </p>
 
 </div>
