@@ -20,10 +20,10 @@ As an **AI Researcher & Developer**, I specialize in the convergence of **Deep L
 
 
 🎯 **Research Interests:**
-- Designing intelligent systems that integrate **AI (Deep Learning & Reinforcement Learning)** with **IoT devices**
-- Analyzing data collected from **IoT devices** and providing **AI(Deep-Learing)-driven solutions**
-- Exploring **Multimodal AI**, with a particular focus on **Multimodal Large Language Models (MLLMs)**
-- Applying **robotics** to create AI-driven solutions that make the world more convenient
+- Designing intelligent systems that integrate **AI (Deep Learning & Reinforcement Learning)** with **IoT devices**.
+- Analyzing data collected from **IoT devices** and providing **AI(Deep-Learing)-driven solutions**.
+- Exploring **Multimodal AI**, with a particular focus on **Multimodal Large Language Models (MLLMs)**.
+- Applying **robotics** to create AI-driven solutions that make the world more convenient.
 
 🔬 **Research Experience:**
 - **AI-based Industrial Safety Service**  
