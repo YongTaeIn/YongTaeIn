@@ -229,7 +229,12 @@ I strive to bridge the gap between AI technologies and real-world applications, 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongTaeIn&layout=compact&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
+![Streak](https://streak-stats.demolab.com?user=YongTaeIn&theme=ambient_gradient)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YongTaeIn&theme=github-compact)
+
 </div>
+
 
 ---
 
