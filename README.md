@@ -233,8 +233,6 @@ I strive to bridge the gap between AI technologies and real-world applications, 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YongTaeIn&theme=github-compact)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YongTaeIn&theme=github_dark)
-
 
 </div>
 
