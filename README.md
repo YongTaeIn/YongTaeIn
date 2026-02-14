@@ -225,16 +225,12 @@ I strive to bridge the gap between AI technologies and real-world applications, 
 
 <div align="center">
 
-![TaeIn's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongTaeIn&show_icons=true&theme=ambient_gradient)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YongTaeIn&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongTaeIn&layout=compact&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
-
-![Streak](https://streak-stats.demolab.com?user=YongTaeIn&theme=ambient_gradient)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YongTaeIn&theme=github-compact)
-
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YongTaeIn&theme=github_dark)
 
 </div>
+
 
 
 ---
