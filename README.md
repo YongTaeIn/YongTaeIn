@@ -37,7 +37,7 @@ As an **AI Researcher & Developer**, I specialize in the convergence of **Deep L
 🔬 **Research Experience:**
 - **Technology Policy Proposal for Seoul Metropolitan Government**  
   Affiliation: The Seoul Institute  
-  Role: Technology Policy Researcher  
+  Role: Researcher  
   Research Period: April 2026 ~ Present
 
 - **AI-based Industrial Safety Service**  
@@ -67,7 +67,7 @@ I strive to bridge the gap between AI technologies and real-world applications, 
 ## 💼 Career & Education
 
 ### 🏢 Work Experience
-- 💼 **April 2026 ~ Present** : Researcher, AI & Big Data Research Division | **The Seoul Institute**
+- 💼 **1 April 2026 ~ Present** : Researcher, AI & Big Data Research Division | **The Seoul Institute**
 - 💼 **23 June 2025 ~ March 2026** : AI Researcher, AI Development Team, SW Development Division | **Doublt T Co., Ltd.**
 
 ### 🎓 Education
