@@ -32,11 +32,17 @@ As an **AI Researcher & Developer**, I specialize in the convergence of **Deep L
 - Analyzing data collected from **IoT devices** and providing **AI(Deep-Learing)-driven solutions**.
 - Exploring **Multimodal AI**, with a particular focus on **Multimodal Large Language Models (MLLMs)**.
 - Applying **robotics** to create AI-driven solutions that make the world more convenient.
+- Proposing **technology policies for Seoul**, connecting emerging technologies with practical urban innovation strategies.
 
 🔬 **Research Experience:**
+- **Technology Policy Proposal for Seoul Metropolitan Government**  
+  Affiliation: The Seoul Institute  
+  Role: Technology Policy Researcher  
+  Research Period: April 2026 ~ Present
+
 - **AI-based Industrial Safety Service**  
   Affiliation: Doublt T Co., Ltd.  
-  Research Period: June 2025 ~ Present
+  Research Period: June 2025 ~ March 2026
   
 - **User-Friendly Interface Technology for Safe Operation of Unmanned Vehicles**  
   Affiliation: Autonomous Intelligent System Lab, Sejong University  
@@ -61,7 +67,8 @@ I strive to bridge the gap between AI technologies and real-world applications, 
 ## 💼 Career & Education
 
 ### 🏢 Work Experience
-- 💼 **23 June 2025 ~ Present** : AI Researcher, AI Development Team, SW Development Division | **Doublt T Co., Ltd.**
+- 💼 **April 2026 ~ Present** : Researcher, AI & Big Data Research Division | **The Seoul Institute**
+- 💼 **23 June 2025 ~ March 2026** : AI Researcher, AI Development Team, SW Development Division | **Doublt T Co., Ltd.**
 
 ### 🎓 Education
 - 🎓 **1 March 2023 ~ 14 February 2025** : Master's Degree in Sejong University | **Autonomous Intelligent System Lab** (Graduated)
@@ -81,6 +88,12 @@ I strive to bridge the gap between AI technologies and real-world applications, 
   - Status: ✅ Published (10 March 2025)
 
 ### 🌍 International Conferences
+
+- **[An Industrial IoT-Based Feedback System for Collision Prevention in Worksites](https://ieeexplore.ieee.org/abstract/document/11454180/)**
+  - ICAIIC 2026 (24 February 2026)
+  - First Author (1st out of 5 authors)
+  - Organizer: The Korea Institute of Information and Communication Engineering
+  - Status: ✅ Published (31 March 2026)
 
 - **[Command Feedback System Based on Context Awareness for Minimizing Control Error in Human-Robot Interaction](https://ieeexplore.ieee.org/abstract/document/10920632)**
   - ICAIIC 2025 (20 February 2025)
@@ -242,7 +255,7 @@ I strive to bridge the gap between AI technologies and real-world applications, 
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://put-idea.tistory.com/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@k62570)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k62570@gmail.com)
-[![Work Email](https://img.shields.io/badge/Work%20Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:taeinyong@doublt.com)
+[![Work Email](https://img.shields.io/badge/Work%20Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:tiyong@si.re.kr)
 
 </div>
 
